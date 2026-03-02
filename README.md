@@ -15,13 +15,13 @@ git checkout -b master
 
 📸 Screenshot:
 
-![Create Master Branch](screenshots/create-master-branch.png)
+![Create Master Branch]![](./img/Screenshot%202026-03-02%20093535.png)
 📌 Step 2: Push Master Branch
 git push -u origin master
 
 📸 Screenshot:
 
-![Push Master Branch](screenshots/push-master.png)
+![Push Master Branch] ![](./img/Screenshot%202026-03-02%20093545.png)
 📌 Step 3: Create Pull Request (master ➝ main)
 
 Go to GitHub
@@ -29,14 +29,14 @@ Click Compare & Pull Request
 
 📸 Screenshot:
 
-![Create Pull Request](screenshots/pull-request.png)
+![Create Pull Request]![](./img/Screenshot%202026-03-02%20093545.png)
 📌 Step 4: Merge Pull Request
 
 Click Merge Pull Request
 
 📸 Screenshot:
 
-![Merge Pull Request](screenshots/merge.png)
+![Merge Pull Request]![](./img/Screenshot%202026-03-02%20093545.png)
 📂 Folder Structure Example
 project-folder/
 │── README.md
